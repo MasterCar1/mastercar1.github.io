@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.usluga.me	TRUE	/	FALSE	1999999999	__ddg1_	cOZSfJnYfpjMWKXxayrP
+
